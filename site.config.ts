@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'b326ad39ddf14627af13ae7e11de9af4',
+  rootNotionPageId: 'Personal-Home-1d2d6bd051fe4239874166e3adab1871',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'mocuili的站点',
-  domain: 'https://ink-author-588.notion.site/b326ad39ddf14627af13ae7e11de9af4',
+  domain: 'https://ink-author-588.notion.site/Personal-Home-1d2d6bd051fe4239874166e3adab1871',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
