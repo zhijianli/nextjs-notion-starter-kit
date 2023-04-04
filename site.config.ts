@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'Personal-Home-1d2d6bd051fe4239874166e3adab1871',
+  rootNotionPageId: 'AI-692a219108bb4d27b9bce0ba54d1b7ca',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'mocuili的站点',
-  domain: 'https://ink-author-588.notion.site/Personal-Home-1d2d6bd051fe4239874166e3adab1871',
-  author: 'Travis Fischer',
+  name: 'AI创想师使用说明',
+  domain: 'https://www.notion.so/AI-692a219108bb4d27b9bce0ba54d1b7ca',
+  author: 'mocuili',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
